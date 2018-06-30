@@ -1,0 +1,19 @@
+﻿Build started 04-06-2018 00:45:51.
+     1>Project "C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\Systems_final_task\Systems_final_task\Systems_final_task.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\systems_final_task\systems_final_task\ss_malloc.h(113): warning C4305: 'argument' : truncation from 'int' to 'short'
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\systems_final_task\systems_final_task\ss_malloc.h(113): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\systems_final_task\systems_final_task\database.h(146): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\systems_final_task\systems_final_task\ss_malloc.h(61): warning C4715: 'allocate_from_this_list' : not all control paths return a value
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\systems_final_task\systems_final_task\ss_malloc.h(98): warning C4715: 'allocate_first_node' : not all control paths return a value
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\systems_final_task\systems_final_task\ss_malloc.h(180): warning C4715: 'getline' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\Systems_final_task\Debug\Systems_final_task.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\Systems_final_task\Debug\Systems_final_task.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\Systems_final_task\Debug\Systems_final_task.lib" /MACHINE:X86 Debug\Source.obj
+         Systems_final_task.vcxproj -> C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\Systems_final_task\Debug\Systems_final_task.exe
+     1>Done Building Project "C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\Systems_final_task\Systems_final_task\Systems_final_task.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53
